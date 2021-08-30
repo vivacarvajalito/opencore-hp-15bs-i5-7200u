@@ -1,0 +1,1 @@
+# opencore-hp-15bs-i5-7200u
